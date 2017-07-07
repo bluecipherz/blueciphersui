@@ -1,0 +1,10 @@
+{
+  "name": "management",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.2.4",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {},
+  "resolutions": {}
+}
